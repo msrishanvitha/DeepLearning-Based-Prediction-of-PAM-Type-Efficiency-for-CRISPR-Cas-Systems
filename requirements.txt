@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+biopython
+openpyxl
+jupyter
+notebook
+ipykernel
