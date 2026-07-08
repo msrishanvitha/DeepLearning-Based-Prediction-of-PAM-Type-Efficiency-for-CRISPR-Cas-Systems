@@ -51,8 +51,8 @@ Target genes include:
 ```
 DeepLearning-Based-Prediction-of-PAM-Type-Efficiency-for-CRISPR-Cas-Systems/
 │
-├── data/
-│   └── sample_combined_processed_grnas.xlsx
+|
+│   sample_combined_processed_grnas.xlsx
 ├── notebooks/
 │   └── PAM_Prediction.ipynb
 ├── requirements.txt
